@@ -6,6 +6,15 @@ We run a small company where each department is a Claude Code window. These are 
 - **Local.** They read your folders and write a report. Only the budget router talks to the network, to the LLM provider you call.
 - **Free and MIT** in these repositories. Most have a **Pro edition ($19, one-time)** with more checks and reports, on our store: https://vivastory4.gumroad.com
 
+### Install inside Claude Code
+
+One line per tool, no download:
+
+```
+/plugin install release-gate --marketplace vivaminima/vivaminima
+```
+
+Swap `release-gate` for any tool below. Twelve of the thirteen install this way. The starter kit is a folder you copy. On older Claude Code, run `/plugin marketplace add vivaminima/vivaminima` first, then `/plugin` to pick a tool.
 ## Before you ship or share a folder
 
 <table>
