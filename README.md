@@ -1,5 +1,9 @@
 # Vivaminima · small tools for Claude Code
 
+**AI coding session heavy before you type a word?** Our AI windows re-read **6.5 million tokens** of instructions in 19 days, at every new session and after every compaction. **4.3 million** of it came before the first question (estimate, our own 12 projects, Oct 29 – Nov 16). In one project a single `@import` line loaded 46,816 tokens per session; we halved it and kept all 40 rules.
+
+Measure yours free with [context-file-audit](https://github.com/vivaminima/context-file-audit). All 15 Pro tools in one download: **[Vivaminima Pro - Everything](https://vivastory4.gumroad.com/l/pro-everything)** ($49; $305 one by one).
+
 We run a small company where each department is a Claude Code window. These are the tools we wrote after our own windows broke something: a key left in a ZIP, a skill that never loaded, a note that went missing between windows.
 
 - **Small.** Most are one Python file, standard library only. Nothing to install.
@@ -19,7 +23,7 @@ Swap `release-gate` for any tool below. Twelve of the thirteen install this way.
 
 <table>
 <tr><td width="50%" valign="top"><a href="https://github.com/vivaminima/release-gate"><img src="img/release-gate.png" alt="release-gate"></a><br><b><a href="https://github.com/vivaminima/release-gate">release-gate</a></b> · free<br>A pre-release check for the ZIP or folder you are about to ship: keys, stray files, machine paths, version mismatches.<br><sub>Pro: <a href="https://vivastory4.gumroad.com/l/release-gate-pro">Release Gate Pro</a> ($19)</sub></td><td width="50%" valign="top"><a href="https://github.com/vivaminima/secret-map"><img src="img/secret-map.png" alt="secret-map"></a><br><b><a href="https://github.com/vivaminima/secret-map">secret-map</a></b> · free<br>See where API keys and passwords sit in a folder before you share it. Shows locations, never values.<br><sub>Pro: <a href="https://vivastory4.gumroad.com/l/secret-map-pro">Secret Map Pro</a> ($19)</sub></td></tr>
-<tr><td width="50%" valign="top"><a href="https://github.com/vivaminima/console-safe"><img src="img/console-safe.png" alt="console-safe"></a><br><b><a href="https://github.com/vivaminima/console-safe">console-safe</a></b> · free<br>Run a Python command-line tool under several console encodings and see where it dies.<br><sub>Pro: Console Safe Pro, coming soon</sub></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/vivaminima/console-safe"><img src="img/console-safe.png" alt="console-safe"></a><br><b><a href="https://github.com/vivaminima/console-safe">console-safe</a></b> · free<br>Run a Python command-line tool under several console encodings and see where it dies.<br><sub>Pro: <a href="https://vivastory4.gumroad.com/l/console-safe-pro">Console Safe Pro</a> ($19)</sub></td></tr>
 </table>
 
 ## Claude Code skills
@@ -39,7 +43,7 @@ Swap `release-gate` for any tool below. Twelve of the thirteen install this way.
 ## Context, cost and decisions
 
 <table>
-<tr><td width="50%" valign="top"><a href="https://github.com/vivaminima/context-file-audit"><img src="img/context-file-audit.png" alt="context-file-audit"></a><br><b><a href="https://github.com/vivaminima/context-file-audit">context-file-audit</a></b> · free<br>Measure what your CLAUDE.md and its @imports cost at session start.<br><sub>Pro: Context Split Planner, coming soon</sub></td><td width="50%" valign="top"><a href="https://github.com/vivaminima/llm-budget-router-lite"><img src="img/llm-budget-router-lite.png" alt="llm-budget-router-lite"></a><br><b><a href="https://github.com/vivaminima/llm-budget-router-lite">llm-budget-router-lite</a></b> · free<br>Route LLM requests and see what each call costs. One local Python file, standard library only.<br><sub>Pro: <a href="https://vivastory4.gumroad.com/l/llm-budget-router-pro">LLM Budget Router Pro</a> ($19)</sub></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/vivaminima/context-file-audit"><img src="img/context-file-audit.png" alt="context-file-audit"></a><br><b><a href="https://github.com/vivaminima/context-file-audit">context-file-audit</a></b> · free<br>Measure what your CLAUDE.md and its @imports cost at session start.<br><sub>Pro: <a href="https://vivastory4.gumroad.com/l/token-audit-kit">Token Audit Kit</a> ($19) · <a href="https://vivastory4.gumroad.com/l/context-split-planner">Context Split Planner</a> ($19) · both in the <a href="https://vivastory4.gumroad.com/l/context-bundle">Context Bundle</a> ($39)</sub></td><td width="50%" valign="top"><a href="https://github.com/vivaminima/llm-budget-router-lite"><img src="img/llm-budget-router-lite.png" alt="llm-budget-router-lite"></a><br><b><a href="https://github.com/vivaminima/llm-budget-router-lite">llm-budget-router-lite</a></b> · free<br>Route LLM requests and see what each call costs. One local Python file, standard library only.<br><sub>Pro: <a href="https://vivastory4.gumroad.com/l/llm-budget-router-pro">LLM Budget Router Pro</a> ($19)</sub></td></tr>
 <tr><td width="50%" valign="top"><a href="https://github.com/vivaminima/go-no-go-verdict-skill"><img src="img/go-no-go-verdict-skill.png" alt="go-no-go-verdict-skill"></a><br><b><a href="https://github.com/vivaminima/go-no-go-verdict-skill">go-no-go-verdict-skill</a></b> · free<br>Turn one idea into a decision with explicit assumptions and stop conditions. A Claude Code skill and a small checker.<br><sub>Pro: <a href="https://vivastory4.gumroad.com/l/go-no-go-verdict-pro">Go/No-Go Verdict Pro</a> ($19)</sub></td></tr>
 </table>
 
