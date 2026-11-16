@@ -1,0 +1,118 @@
+{
+  "name": "vivaminima",
+  "description": "Small local tools for Claude Code users. Free; Pro versions on Gumroad.",
+  "owner": {
+    "name": "Vivaminima",
+    "url": "https://github.com/vivaminima"
+  },
+  "plugins": [
+    {
+      "name": "beginner-readme-section",
+      "source": {
+        "source": "github",
+        "repo": "vivaminima/beginner-readme-section"
+      },
+      "description": "A Claude Code skill that writes a \"New to this? Start here\" section at the top of a README.",
+      "homepage": "https://vivastory4.gumroad.com"
+    },
+    {
+      "name": "checklist-stop",
+      "source": {
+        "source": "github",
+        "repo": "vivaminima/checklist-stop"
+      },
+      "description": "A Stop hook for Claude Code: the session cannot finish while your Markdown checklist still has an open item.",
+      "homepage": "https://vivastory4.gumroad.com/l/checklist-stop-pro"
+    },
+    {
+      "name": "console-safe",
+      "source": {
+        "source": "github",
+        "repo": "vivaminima/console-safe"
+      },
+      "description": "Run a Python command-line tool under several console encodings and see where it dies.",
+      "homepage": "https://vivastory4.gumroad.com"
+    },
+    {
+      "name": "context-file-audit",
+      "source": {
+        "source": "github",
+        "repo": "vivaminima/context-file-audit"
+      },
+      "description": "Measure what your CLAUDE.md and its @imports cost at session start. Python stdlib only, MIT.",
+      "homepage": "https://vivastory4.gumroad.com"
+    },
+    {
+      "name": "go-no-go-verdict",
+      "source": {
+        "source": "github",
+        "repo": "vivaminima/go-no-go-verdict-skill"
+      },
+      "description": "Turn one idea into a decision with explicit assumptions and stop conditions. A Claude Code skill and a small checker.",
+      "homepage": "https://vivastory4.gumroad.com/l/go-no-go-verdict-pro"
+    },
+    {
+      "name": "handoff-check",
+      "source": {
+        "source": "github",
+        "repo": "vivaminima/handoff-check"
+      },
+      "description": "Checks an agent's \"done, I sent it\" report against the disk and writes a verification receipt.",
+      "homepage": "https://vivastory4.gumroad.com/l/handoff-check-pro"
+    },
+    {
+      "name": "inbox-ledger",
+      "source": {
+        "source": "github",
+        "repo": "vivaminima/inbox-ledger"
+      },
+      "description": "A receipt book for the folder your Claude windows use to pass notes: nothing counted twice, nothing lost, later edits detectable. One Python file, offline.",
+      "homepage": "https://vivastory4.gumroad.com/l/inbox-ledger-pro"
+    },
+    {
+      "name": "llm-budget-router-lite",
+      "source": {
+        "source": "github",
+        "repo": "vivaminima/llm-budget-router-lite"
+      },
+      "description": "Route LLM requests and see what each call costs. One local Python file, standard library only.",
+      "homepage": "https://vivastory4.gumroad.com/l/llm-budget-router-pro"
+    },
+    {
+      "name": "release-gate",
+      "source": {
+        "source": "github",
+        "repo": "vivaminima/release-gate"
+      },
+      "description": "A pre-release check for the ZIP or folder you are about to ship: keys, stray files, machine paths, version mismatches.",
+      "homepage": "https://vivastory4.gumroad.com/l/release-gate-pro"
+    },
+    {
+      "name": "secret-map",
+      "source": {
+        "source": "github",
+        "repo": "vivaminima/secret-map"
+      },
+      "description": "See where API keys and passwords sit in a folder before you share it. Shows locations, never values. One Python file, offline.",
+      "homepage": "https://vivastory4.gumroad.com/l/secret-map-pro"
+    },
+    {
+      "name": "skill-audit-kit",
+      "source": {
+        "source": "github",
+        "repo": "vivaminima/skill-audit-kit"
+      },
+      "description": "Find out why a Claude skill does not load, does not trigger, or eats your context. One Python file, offline, read-only.",
+      "homepage": "https://vivastory4.gumroad.com/l/skill-audit-pro"
+    },
+    {
+      "name": "skill-install-gate",
+      "source": {
+        "source": "github",
+        "repo": "vivaminima/skill-install-gate"
+      },
+      "description": "Look at a Claude Code skill before you install it: a check of a temporary copy with one of three verdicts.",
+      "homepage": "https://vivastory4.gumroad.com/l/skill-install-gate-pro"
+    }
+  ]
+}
