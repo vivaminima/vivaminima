@@ -2,7 +2,7 @@
 
 **AI coding session heavy before you type a word?** Our AI windows re-read **6.5 million tokens** of instructions in 19 days, at every new session and after every compaction. **4.3 million** of it came before the first question (estimate, our own 12 projects, Oct 29 – Nov 16). In one project a single `@import` line loaded 46,816 tokens per session; we halved it and kept all 40 rules.
 
-Measure yours free with [context-file-audit](https://github.com/vivaminima/context-file-audit). All 15 Pro tools in one download: **[Vivaminima Pro - Everything](https://vivastory4.gumroad.com/l/pro-everything)** ($49; $305 one by one).
+Measure yours free with [context-file-audit](https://github.com/vivaminima/context-file-audit). All 16 Pro tools in one download: **[Vivaminima Pro - Everything](https://vivastory4.gumroad.com/l/pro-everything)** ($49; $344 one by one).
 
 We run a small company where each department is a Claude Code window. These are the tools we wrote after our own windows broke something: a key left in a ZIP, a skill that never loaded, a note that went missing between windows.
 
