@@ -1,6 +1,6 @@
 # Vivaminima · small tools for Claude Code
 
-> **Early Black Friday:** every Pro tool and bundle is **70% off** for the **first 30 copies**, until Nov 30 (US time). No code needed, the store already shows the price: **[vivastory4.gumroad.com](https://vivastory4.gumroad.com)**
+> 🖤 **BLACK FRIDAY IS LIVE: 70% off every Pro tool and bundle.** First 30 copies at this price, until Nov 30. No code needed. It's already applied at checkout → **[vivastory4.gumroad.com](https://vivastory4.gumroad.com)**
 
 **AI coding session heavy before you type a word?** Our AI windows re-read **6.5 million tokens** of instructions in 19 days, at every new session and after every compaction. **4.3 million** of it came before the first question (estimate, our own 12 projects, Oct 29 – Nov 16). In one project a single `@import` line loaded 46,816 tokens per session; we halved it and kept all 40 rules.
 
