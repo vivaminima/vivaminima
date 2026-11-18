@@ -43,6 +43,15 @@
       "homepage": "https://vivastory4.gumroad.com"
     },
     {
+      "name": "directive-ledger",
+      "source": {
+        "source": "github",
+        "repo": "vivaminima/directive-ledger"
+      },
+      "description": "Keep your AI coding decisions in an append-only log, and see what you typed that never reached it. One Python file, offline.",
+      "homepage": "https://vivastory4.gumroad.com/l/backlog-os"
+    },
+    {
       "name": "go-no-go-verdict",
       "source": {
         "source": "github",
