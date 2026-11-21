@@ -2,6 +2,8 @@
 
 > 🖤 **BLACK FRIDAY IS LIVE: 70% off every Pro tool and bundle.** First 30 copies at this price, until Nov 30. No code needed. It's already applied at checkout → **[vivastory4.gumroad.com](https://vivastory4.gumroad.com)**
 
+🇰🇷 **한국어 안내는 아래 ↓ [한국어로 보기](#한국어)**
+
 **AI coding session heavy before you type a word?** Our AI windows re-read **6.5 million tokens** of instructions in 19 days, at every new session and after every compaction. **4.3 million** of it came before the first question (estimate, our own 12 projects, Oct 29 – Nov 16). In one project a single `@import` line loaded 46,816 tokens per session; we halved it and kept all 40 rules.
 
 Measure yours free with [context-file-audit](https://github.com/vivaminima/context-file-audit). All 16 Pro tools in one download: **[Vivaminima Pro - Everything](https://vivastory4.gumroad.com/l/pro-everything)** ($49; $344 one by one).
