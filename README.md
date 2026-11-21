@@ -50,6 +50,30 @@ Swap `release-gate` for any tool below. Twelve of the fifteen install this way. 
 <tr><td width="50%" valign="top"><a href="https://github.com/vivaminima/go-no-go-verdict-skill"><img src="img/go-no-go-verdict-skill.png" alt="go-no-go-verdict-skill"></a><br><b><a href="https://github.com/vivaminima/go-no-go-verdict-skill">go-no-go-verdict-skill</a></b> · free<br>Turn one idea into a decision with explicit assumptions and stop conditions. A Claude Code skill and a small checker.<br><sub>Pro: <a href="https://vivastory4.gumroad.com/l/go-no-go-verdict-pro">Go/No-Go Verdict Pro</a> ($19)</sub></td></tr>
 </table>
 
+## 한국어
+
+**Claude Code 창을 열 때마다, 첫 질문 전에 지침을 너무 많이 읽고 있지 않나요?** 우리 AI 창들은 19일 동안 지침을 **650만 토큰** 다시 읽었어요. 새 창을 열 때마다, 대화를 줄일 때마다요. 그중 **427만 토큰**이 첫 질문 전이었어요(추정, 우리 프로젝트 12개, 10월 29일~11월 16일). 한 프로젝트에서는 `@import` 한 줄이 창마다 46,816 토큰을 불러왔어요. 반으로 줄이고도 규칙 40개를 다 지켰어요.
+
+내 프로젝트는 무료 [context-file-audit](https://github.com/vivaminima/context-file-audit)로 재 보세요.
+
+우리는 부서마다 Claude Code 창 하나를 두는 작은 회사를 운영해요. 여기 도구는 우리 창들이 실제로 일을 망친 뒤에 만든 것들이에요. ZIP에 남은 키, 불러오지 않은 스킬, 창 사이에서 사라진 메모 같은 일이요.
+
+- **작아요.** 대부분 파이썬 파일 하나, 표준 라이브러리만 써요. 따로 깔 것이 없어요.
+- **내 PC에서 돌아요.** 폴더를 읽고 보고서를 써요. 네트워크를 쓰는 건 예산 라우터 하나이고, 내가 부르는 LLM 회사로만 가요.
+- **무료, MIT 라이선스**예요.
+
+### Claude Code 안에서 설치하기
+
+도구마다 한 줄이면 돼요. 따로 내려받지 않아도 돼요.
+
+```
+/plugin install release-gate --marketplace vivaminima/vivaminima
+```
+
+`release-gate` 자리에 위 표의 도구 이름을 넣으세요. 15개 중 12개가 이렇게 깔려요. 스타터 키트는 폴더를 복사하고, directive-ledger와 folder-undo는 파이썬 파일 하나를 내려받아요. Claude Code가 옛 판이면 `/plugin marketplace add vivaminima/vivaminima`를 먼저 하고 `/plugin`에서 고르세요.
+
+도구 16종 묶음 한국어 안내: **[Vivaminima Pro 전체 묶음 (한국어 안내)](https://vivastory4.gumroad.com/l/pro-everything-ko)**
+
 ---
 
 Questions or a broken check? Open an issue in the tool's repository.
