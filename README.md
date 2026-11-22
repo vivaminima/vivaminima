@@ -79,3 +79,5 @@ Swap `release-gate` for any tool below. Twelve of the fifteen install this way. 
 ---
 
 Questions or a broken check? Open an issue in the tool's repository.
+
+<p align="center"><sub>© 2026 Vivaminima. All rights reserved.</sub></p>
